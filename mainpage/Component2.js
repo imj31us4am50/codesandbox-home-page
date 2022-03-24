@@ -6,10 +6,10 @@ export default function Component2() {
       <div className="container-for-description col-md-6 mx-auto mt-3 ml-3 mr-3">
         <h1>Iubire și pentru cei de acasă! </h1>
         <p>
-          In această zi sărbătorim legătura dintre animal de companie și stăpân.
-          Dacă ai un animal de companie, sărbătorește Ziua Animalelor de
-          Companie cu el. Fă-i prăjiturele sau bunătăți speciale, cumpără-i o
-          jucărie nouă, mergi la o plimbare lungă, fă-i un masaj sau
+          In această zi sărbătorim <b>(în U.S.)</b> legătura dintre animal de
+          companie și stăpân. Dacă ai un animal de companie, sărbătorește Ziua
+          Animalelor de Companie cu el. Fă-i prăjiturele sau bunătăți speciale,
+          cumpără-i o jucărie nouă, mergi la o plimbare lungă, fă-i un masaj sau
           îmbrățișează-l și spune-i cât de mult îl iubești. Așa se sărbătorește
           o zi ca aceasta!
         </p>
