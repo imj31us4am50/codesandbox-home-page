@@ -5,10 +5,11 @@ export default function Component1() {
     <div className="row mt-5 poa">
       <video
         src="https://imj31us4am50.github.io/NSEDITEDVIDS/animal-video-2.mp4"
+        className="aoba col-md-6 mx-auto"
         controls
         muted
         autoPlay
-        className="aoba col-md-6 mx-auto"
+        loop
       />
       <div className="container-for-description col-md-6 mx-auto mt-3 ml-3 mr-3">
         <h2>Viața sălbatică: plasa de siguranță vieții pe Pământ.</h2>

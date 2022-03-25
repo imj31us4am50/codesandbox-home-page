@@ -16,10 +16,11 @@ export default function Component2() {
       </div>
       <video
         src="https://imj31us4am50.github.io/NSEDITEDVIDS/animal-video-3.mp4"
+        className="aoba col-md-6 mx-auto"
         controls
         muted
         autoPlay
-        className="aoba col-md-6 mx-auto"
+        loop
       />
     </div>
   );
