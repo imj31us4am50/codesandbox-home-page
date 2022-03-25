@@ -12,7 +12,7 @@ export default function Component3() {
         loop
       />
       <div className="container-for-description col-md-6 mx-auto mt-3 ml-3 mr-3">
-        <h1>title</h1>
+        <h1>Vedetele Spectacolului</h1>
         <p>text</p>
       </div>
     </div>
