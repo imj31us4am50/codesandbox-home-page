@@ -13,7 +13,14 @@ export default function Component3() {
       />
       <div className="container-for-description col-md-6 mx-auto mt-3 ml-3 mr-3">
         <h1>Vedetele Spectacolului</h1>
-        <p>text</p>
+        <p>
+          <b>Ce simbolizează lebăda?</b> Considerată întotdeauna un simbol al
+          eleganței și frumuseții , ea reprezintă și iubirea eternă . O imagine
+          foarte comună este cea a două lebede care, prin unirea capului,
+          formează o inimă. Albul lor amintește și conceptul de puritate. Lebăda
+          celebrează frumusețea, cultura, arta, iubirea, credința și profunzimea
+          sufletului.
+        </p>
       </div>
     </div>
   );
