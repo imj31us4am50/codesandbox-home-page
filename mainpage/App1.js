@@ -9,6 +9,8 @@ import Title2 from "/mainpage/Title2.js";
 import Component2 from "/mainpage/Component2.js";
 import Title3 from "/mainpage/Title3.js";
 import Component3 from "/mainpage/Component3.js";
+import Title4 from "/mainpage/Title4.js";
+import Component4 from "/mainpage/Component4.js";
 
 export default function App1() {
   return (
@@ -19,6 +21,8 @@ export default function App1() {
       <Component2 />
       <Title3 />
       <Component3 />
+      <Title4 />
+      <Component4 />
     </div>
   );
 }
