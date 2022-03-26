@@ -2,20 +2,20 @@ import Component42CSS from "/mainpage/Component42.css";
 
 export default function Component42() {
   return (
-    <div className="row mt-5 poa" style={Component42CSS}>
+    <div className="row mt-5 mb-5 poa" style={Component42CSS}>
       <div className="container-for-description col-md-6 mx-auto mt-3 ml-3 mr-3">
-        <h1>Despre Suricate</h1>
+        <h1>Adevăratele Acrobate</h1>
         <p>
-          Suricatelor le place să se îngrijească una pe alta, și-și culeg
-          paraziții din blană pe care îi mănâncă, deși aceștia nu fac parte din
-          dieta lor. Suricatele stau în două labe sau chiar în vârful degetelor
-          pentru a mirosi vântul și a detecta vulturii care ar putea da
-          târcoale. Au vederea excelentă și pot scoate 10 sunete diferite, unul
-          dintre ele fiind cel care dă alarma.
+          <b>Câteva curiozități despre veverițe: </b>Veverițele uită unde își
+          țin nucile și ghindele îngropate, ceea ce duce la creșterea de noi
+          copaci. Ca la majoritatea rozătoarelor, au patru dinți în față care
+          cresc continuu. De aceea ele trebuie să roadă mereu câte ceva.
+          Veveriţele sunt foarte încrezătoare, fiind unele dintre puţinele
+          animale sălbatice care mănâncă din mâna unui om.
         </p>
       </div>
       <video
-        src="https://imj31us4am50.github.io/NSEDITEDVIDS/animal-video-4.mp4"
+        src="https://imj31us4am50.github.io/NSEDITEDVIDS/animal-video-6.mp4"
         className="aoba col-md-6 mx-auto"
         controls
         muted

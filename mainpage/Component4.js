@@ -2,7 +2,7 @@ import Component4CSS from "/mainpage/Component4.css";
 
 export default function Component4() {
   return (
-    <div className="row mt-5 poa" style={Component4CSS}>
+    <div className="row mt-5 mb-5 poa" style={Component4CSS}>
       <div className="container-for-description col-md-6 mx-auto mt-3 ml-3 mr-3">
         <h1>Despre Suricate</h1>
         <p>

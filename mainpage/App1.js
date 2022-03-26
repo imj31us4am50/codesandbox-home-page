@@ -13,6 +13,8 @@ import Title4 from "/mainpage/Title4.js";
 import Component4 from "/mainpage/Component4.js";
 import Component41 from "/mainpage/Component41.js";
 import Component42 from "/mainpage/Component42.js";
+import TitleAdd from "/mainpage/TitleAdditional.js";
+import ComponentAdd from "/mainpage/ComponentAdditional.js";
 
 export default function App1() {
   return (
@@ -27,6 +29,9 @@ export default function App1() {
       <Component4 />
       <Component41 />
       <Component42 />
+
+      <TitleAdd />
+      <ComponentAdd />
     </div>
   );
 }
