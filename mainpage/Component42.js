@@ -1,8 +1,8 @@
-import Component4CSS from "/mainpage/Component4.css";
+import Component42CSS from "/mainpage/Component42.css";
 
-export default function Component4() {
+export default function Component42() {
   return (
-    <div className="row mt-5 poa" style={Component4CSS}>
+    <div className="row mt-5 poa" style={Component42CSS}>
       <div className="container-for-description col-md-6 mx-auto mt-3 ml-3 mr-3">
         <h1>Despre Suricate</h1>
         <p>

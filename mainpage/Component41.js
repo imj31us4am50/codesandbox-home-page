@@ -1,10 +1,10 @@
-import Component4CSS from "/mainpage/Component4.css";
+import Component41CSS from "/mainpage/Component41.css";
 
-export default function Component4() {
+export default function Component41() {
   return (
-    <div className="row mt-5 poa" style={Component4CSS}>
+    <div className="row mt-5 poa" style={Component41CSS}>
       <div className="container-for-description col-md-6 mx-auto mt-3 ml-3 mr-3">
-        <h1>Despre Suricate</h1>
+        <h1>Importanța Păsărilor În Viața Noastră</h1>
         <p>
           Suricatelor le place să se îngrijească una pe alta, și-și culeg
           paraziții din blană pe care îi mănâncă, deși aceștia nu fac parte din

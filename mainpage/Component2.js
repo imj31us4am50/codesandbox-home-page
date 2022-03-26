@@ -2,7 +2,7 @@ import Component2CSS from "/mainpage/Component2.css";
 
 export default function Component2() {
   return (
-    <div className="row mt-5 poa">
+    <div className="row mt-5 poa" style={Component2CSS}>
       <div className="container-for-description col-md-6 mx-auto mt-3 ml-3 mr-3">
         <h1>Iubire și pentru cei de acasă! </h1>
         <p>

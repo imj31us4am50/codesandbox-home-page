@@ -11,6 +11,8 @@ import Title3 from "/mainpage/Title3.js";
 import Component3 from "/mainpage/Component3.js";
 import Title4 from "/mainpage/Title4.js";
 import Component4 from "/mainpage/Component4.js";
+import Component41 from "/mainpage/Component41.js";
+import Component42 from "/mainpage/Component42.js";
 
 export default function App1() {
   return (
@@ -23,6 +25,8 @@ export default function App1() {
       <Component3 />
       <Title4 />
       <Component4 />
+      <Component41 />
+      <Component42 />
     </div>
   );
 }

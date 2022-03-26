@@ -2,7 +2,7 @@ import Component1CSS from "/mainpage/Component1.css";
 
 export default function Component1() {
   return (
-    <div className="row mt-5 poa">
+    <div className="row mt-5 poa" style={Component1CSS}>
       <video
         src="https://imj31us4am50.github.io/NSEDITEDVIDS/animal-video-2.mp4"
         className="aoba col-md-6 mx-auto"
