@@ -18,15 +18,15 @@ export default function App1() {
   return (
     <div className="container-fluid p-5">
       <Title1 />
-      <Component1 />
+      <Component1 class="underborder" />
       <Title2 />
-      <Component2 />
+      <Component2 class="underborder" />
       <Title3 />
-      <Component3 />
+      <Component3 class="underborder" />
       <Title4 />
-      <Component4 />
-      <Component41 />
-      <Component42 />
+      <Component4 class="underborder" />
+      <Component41 class="underborder" />
+      <Component42 class="underborder" />
     </div>
   );
 }

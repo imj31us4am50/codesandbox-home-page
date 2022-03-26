@@ -3,25 +3,24 @@ import Component41CSS from "/mainpage/Component41.css";
 export default function Component41() {
   return (
     <div className="row mt-5 poa" style={Component41CSS}>
-      <div className="container-for-description col-md-6 mx-auto mt-3 ml-3 mr-3">
-        <h1>Importanța Păsărilor În Viața Noastră</h1>
-        <p>
-          Suricatelor le place să se îngrijească una pe alta, și-și culeg
-          paraziții din blană pe care îi mănâncă, deși aceștia nu fac parte din
-          dieta lor. Suricatele stau în două labe sau chiar în vârful degetelor
-          pentru a mirosi vântul și a detecta vulturii care ar putea da
-          târcoale. Au vederea excelentă și pot scoate 10 sunete diferite, unul
-          dintre ele fiind cel care dă alarma.
-        </p>
-      </div>
       <video
-        src="https://imj31us4am50.github.io/NSEDITEDVIDS/animal-video-4.mp4"
+        src="https://imj31us4am50.github.io/NSEDITEDVIDS/animal-video-7.mp4"
         className="aoba col-md-6 mx-auto"
         controls
         muted
         autoPlay
         loop
       />
+      <div className="container-for-description col-md-6 mx-auto mt-3 ml-3 mr-3">
+        <h1>Importanța păsărilor în viața noastră</h1>
+        <p>
+          Îți poți imagina o lume fără păsări? Beneficiile pe care ni le aduc
+          păsările nu sunt doar culturale. Păsările joacă un rol esențial în
+          funcționarea ecosistemelor lumii, într-un mod care are un impact
+          direct asupra sănătății umane, economiei și producției de alimente -
+          precum și asupra milioanelor de alte specii.
+        </p>
+      </div>
     </div>
   );
 }
