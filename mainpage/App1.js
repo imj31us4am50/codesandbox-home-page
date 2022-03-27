@@ -16,6 +16,7 @@ import Component42 from "/mainpage/Component42.js";
 import TitleAdd from "/mainpage/TitleAdditional.js";
 import ComponentAdd from "/mainpage/ComponentAdditional.js";
 import Component43 from "/mainpage/Component43.js";
+import Component44 from "/mainpage/Component44.js";
 
 export default function App1() {
   return (
@@ -31,6 +32,7 @@ export default function App1() {
       <Component41 />
       <Component42 />
       <Component43 />
+      <Component44 />
 
       <TitleAdd />
       <ComponentAdd />
