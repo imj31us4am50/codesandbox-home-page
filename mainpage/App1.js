@@ -33,9 +33,6 @@ export default function App1() {
       <Component42 />
       <Component43 />
       <Component44 />
-
-      <TitleAdd />
-      <ComponentAdd />
     </div>
   );
 }
