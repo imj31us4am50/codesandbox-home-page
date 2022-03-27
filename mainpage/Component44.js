@@ -6,10 +6,13 @@ export default function Component44() {
       <div className="container-for-description col-md-6 mx-auto mt-3 ml-3 mr-3">
         <h1>Viața Acvatică</h1>
         <p>
+          Apa este cel mai propice mediu pentru dezvoltarea vieții; de altfel,
+          primele forme de viață au apărut în apă, iar majoritatea
+          viețuitoarelor trăiesc în apă, respectiv 75%, și numai 25% pe uscat.
           Ecosistemele marine și de apă dulce îndeplinesc mai multe funcții
           vitale, cum ar fi filtrarea, diluarea și stocarea apei, prevenirea
-          inundațiilor, menținerea echilibrului climatic la nivel local și
-          global și protejarea diversității biologice.
+          inundațiilor, menținerea echilibrului climatic și protejarea
+          diversității biologice.
         </p>
       </div>
       <video
