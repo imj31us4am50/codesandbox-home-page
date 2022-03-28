@@ -12,7 +12,7 @@ export default function Component45() {
         loop
       />
       <div className="container-for-description col-md-6 mx-auto mt-3 ml-3 mr-3">
-        <h1>Îndemn la acțiune</h1>
+        <h1>Despre Pangolini</h1>
         <p>
           <b>Ce sunt pangolinii?</b> Dacă nu ai auzit niciodată de pangolin, nu
           ești singur. Această creatură timidă, la fel de mare ca pisica sau
