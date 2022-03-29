@@ -1,17 +1,10 @@
 .footer {
   background: linear-gradient(to bottom right, #142e01, #84b835) no-repeat fixed;
+  font-family: Quicksand, sans-serif;
 }
 .row {
   width: fit-content;
 }
 .fs {
-  font-size: 16px;
-}
-.opaq {
-  opacity: 0.5;
   user-select: none;
-}
-
-.ojd {
-  max-width: 300px;
 }
