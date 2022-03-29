@@ -6,6 +6,10 @@
   /* height: 10000px; */
 }
 
+* {
+  box-sizing: border-box;
+}
+
 a,
 a:hover {
   color: var(--green);
