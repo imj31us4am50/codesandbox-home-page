@@ -4,7 +4,7 @@ import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
 import Logo from "/navbar/Logo.js";
 import NavBar from "/navbar/NavBar.js";
 
-export default function App() {
+export default function App2() {
   return (
     <div className="Header container-fluid">
       <div className="image">
