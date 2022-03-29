@@ -2,7 +2,7 @@ import Component44CSS from "/mainpage/Component44.css";
 
 export default function Component44() {
   return (
-    <div className="row mt-5 mb-5 poa" style={Component44CSS}>
+    <div className="row mt-5 poa pouy" style={Component44CSS}>
       <div className="container-for-description col-md-6 mx-auto mt-3 ml-3 mr-3">
         <h1>Viața Acvatică</h1>
         <p>

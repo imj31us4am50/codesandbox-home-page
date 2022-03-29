@@ -6,6 +6,7 @@ ul {
 a {
   color: white;
   font-size: 1.125rem;
+  transition: color 0.5s;
 }
 
 .rowa {
@@ -37,9 +38,7 @@ a {
   background: #81b73c;
   padding: 0.5em;
   border-radius: 2em;
-}
-.bg a:hover {
-  color: white;
+  transition: background 0.5s;
 }
 
 @media screen and (max-width: 830px) {
@@ -68,5 +67,15 @@ a {
 }
 
 .current a {
+  color: #81b73c;
+}
+
+.bg:hover {
+  background: white;
+  opacity: 1;
+  cursor: pointer;
+}
+
+.bg:hover a {
   color: #81b73c;
 }

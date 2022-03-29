@@ -2,7 +2,7 @@ import Component45CSS from "/mainpage/Component45.css";
 
 export default function Component45() {
   return (
-    <div className="row mt-5 mb-5 poa" style={Component45CSS}>
+    <div className="row mt-5 poa pouy" style={Component45CSS}>
       <video
         src="https://imj31us4am50.github.io/NSEDITEDVIDS/animal-video-10.mp4"
         className="aoba col-md-6 mx-auto"

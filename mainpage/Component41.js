@@ -2,7 +2,7 @@ import Component41CSS from "/mainpage/Component41.css";
 
 export default function Component41() {
   return (
-    <div className="row mt-5 mb-5 poa" style={Component41CSS}>
+    <div className="row mt-5 poa pouy" style={Component41CSS}>
       <video
         src="https://imj31us4am50.github.io/NSEDITEDVIDS/animal-video-7.mp4"
         className="aoba col-md-6 mx-auto"

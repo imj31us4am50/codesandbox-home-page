@@ -2,7 +2,7 @@ import Component42CSS from "/mainpage/Component42.css";
 
 export default function Component42() {
   return (
-    <div className="row mt-5 mb-5 poa" style={Component42CSS}>
+    <div className="row mt-5 poa pouy" style={Component42CSS}>
       <div className="container-for-description col-md-6 mx-auto mt-3 ml-3 mr-3">
         <h1>Adevăratele Acrobate</h1>
         <p>
