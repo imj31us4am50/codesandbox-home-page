@@ -1,0 +1,21 @@
+ <div className="container-of-video m-0 p-0">
+        <video
+          src="https://imj31us4am50.github.io/NSEDITEDVIDS/animal-video-for-home-page-bg.mp4"
+          className="home-main-video"
+          autoPlay
+          muted
+          loop
+        />
+      </div>
+
+
+
+//CSS
+
+.home-main-video {
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
